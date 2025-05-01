@@ -22,6 +22,7 @@ This repository contains a small demo of a quake-style multiplayer FPS that inte
 * [Overwatch Gameplay Architecture & Netcode](https://www.youtube.com/watch?v=W3aieHjyNvw)
 * [TinyBirdNet](https://github.com/Saishy/TinyBirdNet-Unity)
 * https://www.gamedev.net/forums/topic/696756-command-frames-and-tick-synchronization/
+* https://danieljimenezmorales.github.io/2023-10-29-the-art-of-hit-registration/
 
 **Architecture**:
 
